@@ -1,17 +1,18 @@
-# My first project
+# Retro Bikes
+ Retro bikes is a soical mountainbiking group that is was created by people who love mountain biking for people who love mounation biking. Retro Bikes provides a community to keep people active and healthy on weekly mountain bike rides. Retro Bikes is aimed at people that what to get back out on their bike or if they want a group of people to ride with. It will provide a place to get in touch to join the group and learn about the times, days, routes(*length and difficulty*) and any useful information such as what to bring for the rides(*helmet, water, spare tube*). 
 
-### Suface
-* Visual Design
-### Skeleton
-* Interface Design
-* Navigation
-* Information Design
-### Structure
-* Interaction Design
-* Information Design
-### Scope
-* Functional Secification
-* Content Repquirements
-### Strategy
-* User Needs 
-* Business Objectives
+/* image of finished website*/
+
+## Features
+
+###  Features Left to Implement
+
+## Testing
+
+### Validator Testing
+
+### Unfixed Bugs
+
+## Deployment
+
+## Credits
