@@ -17,12 +17,3 @@
 
 ## Credits
 
-## Strategy 
-
-### User Needs 
-
-As a user I should be able to easily find all relevant information such as contact information, time, dates and places.
-
-### Business Objectives
-
-To provide a clean and easly to use website so the user can find all information with ease.
