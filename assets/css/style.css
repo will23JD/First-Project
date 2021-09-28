@@ -11,3 +11,43 @@ body {
     font-weight: 400;
     color: #3a3a3a;
 }
+
+/* headings */
+
+h1, h2 {
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    color: #4EAB0E;
+}
+
+/* logo and nav */
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 25px;
+}
+
+#menu {
+    font-size: 120%;
+}
+
+#logo, #menu {
+    line-height: 80px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px; 
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    background-color: #4EAB0E;
+    color: #fff;
+}
