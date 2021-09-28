@@ -67,3 +67,20 @@ h1, h2 {
     background: url(../images/hero-img.jpg) no-repeat center center;
     background-size: cover;
 }
+
+/* Welcome to Retro Bikes */
+
+#introduction {
+    height: 300px;
+}
+
+#welcome {
+    font-size: 200%;
+    text-align: center;
+    padding: 20px;
+}
+
+#introduction p {
+    text-align: center;
+    padding: 0 10px;
+}
