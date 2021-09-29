@@ -259,12 +259,42 @@ footer {
     }
 
     #info-req {
-        width: 90%;
+        width: 100%;
         float: left;
     }
 
     #helmet img {
         width: 100%;
         margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 950px){
+    #introduction {
+        height: 300px;
+    }
+
+    #info-req {
+        height: 1000px;
+        text-align: center;
+    }
+
+    #information li, #require li{
+        width: 90%;
+    }
+
+    #require p {
+        padding-left: 15px;
+        font-size: 110%;
+        width: 90%;
+    }
+
+    #helmet img {
+        height: 200px;
+    }
+
+    footer {
+        width: 100%;
+        font-size: 70%;
     }
 }
