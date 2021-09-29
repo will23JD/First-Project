@@ -87,9 +87,13 @@ h1, h2 {
 
 /* Hear from the riders*/
 
+#riders {
+    height: 600px;
+}
+
 #hear-from {
     text-align: center;
-    padding-bottom: 40px;
+    padding: 40px;
 }
 
 #left-side  {
@@ -158,4 +162,46 @@ h1, h2 {
     border-radius: 50%;
     float: left;
     margin-right: 40px;
+}
+
+/* Information and Requirements */
+
+#info-req {
+    height: 600px;
+    width: 50%;
+    float: left;
+}
+
+#information h2 {
+    text-align: center;
+    padding: 30px;
+    font-size: 200%;
+}
+
+#info-list {
+    list-style: circle;
+    padding-left: 40px;
+}
+
+#require h2 {
+    text-align: center;
+    padding: 30px;
+    font-size: 200%;
+}
+
+#require p {
+    padding-left: 40px;
+    padding-bottom: 10px;
+    font-size: 130%;
+}
+
+#requ-list {
+    list-style: circle;
+    padding-left: 40px;
+}
+
+#helmet img {
+    float: right;
+    width: 50%;
+    height: 600px;
 }
