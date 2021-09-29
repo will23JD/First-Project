@@ -270,6 +270,22 @@ footer {
 }
 
 @media screen and (max-width: 950px){
+    
+    #logo{
+        width: 100%;
+        margin-left: 20px;
+        
+    }
+
+    #menu {
+        margin-left: 20px;
+    }
+
+    #menu li {
+        float: left;
+    }
+       
+    
     #introduction {
         height: 300px;
     }
