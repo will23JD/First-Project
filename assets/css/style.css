@@ -10,6 +10,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #3a3a3a;
+    background-color: #dad4c9;
 }
 
 /* headings */
@@ -200,8 +201,31 @@ h1, h2 {
     padding-left: 40px;
 }
 
+/* accompanying image for info and safety */
+
 #helmet img {
     float: right;
     width: 50%;
     height: 600px;
+}
+
+/* footer */
+
+footer {
+    height: 100px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #664614;
 }
