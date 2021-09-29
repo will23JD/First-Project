@@ -90,6 +90,7 @@ h1, h2 {
 
 #riders {
     height: 600px;
+    text-align: center;
 }
 
 #hear-from {
@@ -107,6 +108,10 @@ h1, h2 {
     padding-top: 30px;
     width: 50%;
     float: right;
+}
+
+#left-side p, #right-side p {
+    padding: 0 20px;
 }
 
 .left-side-rider {
@@ -228,4 +233,38 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #664614;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+    #riders {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #left-side, #right-side {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .left-side-rider, .right-side-rider {
+        width: inherit;
+    }
+
+    .left-side-rider p, .right-side-rider p {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    #info-req {
+        width: 90%;
+        float: left;
+    }
+
+    #helmet img {
+        width: 100%;
+        margin: 0 auto;
+    }
 }
