@@ -239,18 +239,53 @@ footer {
 
 #routes {
     width: 100%;
-    height: 600px;
+    height: 700px;
     padding-top: 80px;
+}
+
+#left-route, #center-route, #right-route {
+    width: 32%;
+    padding: 10px
+}
+
+/* Route headings */
+
+#left-route h2, #center-route h2, #right-route h2 {
+    text-align: center;
+    font-size: 200%;
 }
 
 /* routes images */
 
-#route1 img, #route2 img, #route3 img {
+#left-route img, #center-route img, #right-route img {
     height: 400px;
-    width: 30%;
+    width: 100%;
+}
+
+#left-route {
     float: left;
-    padding: 24px;
-    text-align: center;
+}
+
+#right-route {
+    float: right;
+}
+
+#center-route {
+    margin: auto;
+}
+
+/* route paragrapths */
+
+#routes p {
+    padding-bottom: 10px;
+    font-size: 120%;
+}
+
+/* route lists */
+
+#routes ul {
+    list-style-type: none;
+    font-size: 120%;
 }
 
 /* Media queries */
