@@ -320,6 +320,16 @@ footer {
         width: 100%;
         margin: 0 auto;
     }
+
+    #routes {
+        height: 1800px;
+    }
+
+    #left-route, #center-route, #right-route {
+        width: 80%;
+        margin: auto;
+        float: none;
+    }
 }
 
 @media screen and (max-width: 950px){
@@ -332,6 +342,7 @@ footer {
 
     #menu {
         margin-left: 20px;
+        clear: left;
     }
 
     #menu li {
@@ -366,4 +377,13 @@ footer {
         width: 100%;
         font-size: 70%;
     }
+
+    #routes {
+        height: 1950px;
+    }
+
+    #left-route, #center-route, #right-route {
+        width: 90%;
+    }
+
 }
