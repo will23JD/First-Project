@@ -12,7 +12,7 @@
 </head>
 <body>
     <header>
-        <a href="routes.html">
+        <a href="index.html">
             <h1 id="logo">Retro Bikes</h1>
         </a>
         <nav>
@@ -32,46 +32,20 @@
             </ul>
         </nav>
     </header>
-    <section id="routes">
-        <div id="left-route">
-            <h2>Route 1</h2>
-            <div><img src="assets/images/route1.png" alt="Image of the first route."></div>
-            <p>
-                This route contains a mix of steady up hills with somefast down hill section, it contains features such as small jumps, berms and drops. 
-            </p>
-            <ul>
-                <li>Distance: 8.0 km</li>
-                <li>Climbing: 87 m</li>
-                <li>Desecnt: -95 m</li>
-                <li>Skill level: Intermediate</li>
-            </ul>
-        </div>
-        <div id="right-route">
-            <h2>Route 3</h2>
-            <div><img src="assets/images/route3.png" alt="Image of the third route."></div>
-            <p>
-                This route is a steady cross county trail with few technical features like small berms and tight terns. 
-            </p>
-            <ul>
-                <li>Distance: 6.7 km</li>
-                <li>Climbing: 65 m</li>
-                <li>Desecnt: -67m</li>
-                <li>Skill level: Beginner</li>
-            </ul>
-        </div>
-        <div id="center-route">
-            <h2>Route 2</h2>
-            <div><img src="assets/images/route2.png" alt="Image of the second route."></div>
-            <p>
-                This route contains steep up hills climbs followed by aggressive down hills with large jumps, drops, rock gardens and berms.
-            </p>
-            <ul>
-                <li>Distance: 9.3 km</li>
-                <li>Climbing: 150 m</li>
-                <li>Desecnt: -163 m</li>
-                <li>Skill level: Advanced</li>
-            </ul>
-        </div>
+    <section class="getintouch" >
+        <form action="POST" class="form">
+            <h2>Get In Touch</h2>
+            <label for="fanme">First Name</label>
+            <input type="text" id="fname" class="text-input" name="first_name" required>
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" class="text-input" name="last_name" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" class="text-input" name="email-address" required>
+
+            <input class="getintouch-button" type="submit" value="Let's Ride!">
+        </form>
     </section>
     <footer>
         <ul class="social-networks">

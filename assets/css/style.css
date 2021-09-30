@@ -288,6 +288,54 @@ footer {
     font-size: 120%;
 }
 
+/* Get In Touch */
+
+.getintouch {
+    clear: left;
+    background: url(../images/getintouch.jpg) center;
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+}
+
+.form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.form h2 {
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+.getintouch-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #4EAB0E;
+    color: #fafafa;
+    display: block;
+}
+
+.getintouch-button:hover {
+    background-color: #fafafa;
+    color: #4EAB0E;
+}
+
 /* Media queries */
 
 @media screen and (max-width: 1200px) {
