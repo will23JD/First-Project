@@ -5,6 +5,13 @@
 
 ## Features
 
+### Navigation
+
+* At the top of the page is the group name in the left corner that links back to the home page. 
+* On the right there are the other navigation link; Home which links to the index.html page, Info which scrolls down to the infrmation section on the home page, Routes which takes you to the routes.html page and Get In Touch which takes you to the GetInTouch.html page.
+* The navigation is set out in a clear and familiar way so user can easly navigate the page as soon as they get to it.
+* The logo is style in the same simple clean font as the other h1 and h2 elements with a green color the contrast with the back ground. The navigation links are in the same font color as the body element.
+
 ###  Features Left to Implement
 
 ## Testing
