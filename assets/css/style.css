@@ -440,6 +440,6 @@ footer {
 
 @media screen and (max-width: 350px) {
     #menu {
-        font-size: 100%;
+    font-size: 95%;
     }
 }
