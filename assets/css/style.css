@@ -391,12 +391,8 @@ footer {
     #menu {
         margin-left: 20px;
         clear: left;
-    }
-
-    #menu li {
         float: left;
-    }
-       
+    } 
     
     #introduction {
         height: 300px;
