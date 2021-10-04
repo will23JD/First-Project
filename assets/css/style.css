@@ -10,7 +10,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #3a3a3a;
-    background-color: #dad4c9;
+    background-color: #e7e4df;
 }
 
 /* headings */
@@ -18,7 +18,7 @@ body {
 h1, h2 {
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
-    color: #4EAB0E;
+    color: #267106;
 }
 
 /* logo and nav */
