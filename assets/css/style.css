@@ -389,7 +389,6 @@ footer {
 @media screen and (max-width: 950px){
     
     #logo{
-        width: 100%;
         margin-left: 20px;
         
     }
@@ -424,10 +423,6 @@ footer {
         width: 90%;
     }
 
-    #helmet img {
-        height: 200px;
-    }
-
     footer {
         width: 100%;
         font-size: 70%;
@@ -446,5 +441,9 @@ footer {
 @media screen and (max-width: 350px) {
     #menu {
     font-size: 95%;
+    }
+
+    #helmet img {
+        height: 200px;
     }
 }
