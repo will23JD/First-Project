@@ -398,7 +398,12 @@ footer {
         margin-left: 20px;
         clear: left;
         float: left;
-    } 
+    }
+
+    #hero-image {
+        background: url(../images/hero-img-phone.jpg);
+        background-size: cover;
+    }
     
     #introduction {
         height: 300px;
