@@ -390,7 +390,6 @@ footer {
     
     #logo{
         margin-left: 20px;
-        
     }
 
     #menu {
@@ -399,10 +398,7 @@ footer {
         float: left;
     }
 
-    #hero-image {
-        background: url(../images/hero-img-phone.jpg);
-        background-size: cover;
-    }
+
     
     #introduction {
         height: 300px;
@@ -438,9 +434,14 @@ footer {
 
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
     #menu {
     font-size: 95%;
+    }
+
+    #hero-image {
+        background: url(../images/hero-img-phone.jpg);
+        background-size: cover;
     }
 
     #helmet img {
