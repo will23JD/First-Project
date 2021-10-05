@@ -173,9 +173,13 @@ h1, h2 {
 /* Information and Requirements */
 
 #info-req {
-    height: 600px;
-    width: 50%;
+    height: 750px;
+    width: 100%;
+}
+
+#info-left {
     float: left;
+    width: 50%;
 }
 
 #information h2 {
@@ -208,7 +212,11 @@ h1, h2 {
 
 /* accompanying image for info and safety */
 
-#helmet img {
+#helmet-right {
+    padding-top: 4%;
+}
+
+#helmet-right img {
     float: right;
     width: 50%;
     height: 600px;
@@ -367,12 +375,16 @@ footer {
 
     #info-req {
         width: 100%;
-        float: left;
+        clear: both;
+    }
+
+    #information, #require {
+        clear: both;
+        width: 100%;
     }
 
     #helmet img {
         width: 100%;
-        margin: 0 auto;
     }
 
     #routes {
@@ -403,8 +415,18 @@ footer {
     }
 
     #info-req {
-        height: 1000px;
+        height: 850px;
         text-align: center;
+    }
+
+    #info-left {
+        width: 100%;
+        clear: both;
+    }
+
+    #helmet-right img {
+        width: 100%;
+        clear: right;
     }
 
     #information li, #require li{
@@ -452,7 +474,7 @@ footer {
         background-size: cover;
     }
 
-    #helmet img {
+    #helmet-right img {
         height: 200px;
     }
 }
