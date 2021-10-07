@@ -75,15 +75,15 @@
 
  ### Routes
 
- * This page allows to user to see the different rides that the group goes on
- * It also provides the user usefull information about the ride such as skill level
- * Like the home page this page includes the same navigation and footer to provide the user with a familiar layout for ease of navigation
+* This page allows to user to see the different rides that the group goes on
+* It also provides the user usefull information about the ride such as skill level
+* Like the home page this page includes the same navigation and footer to provide the user with a familiar layout for ease of navigation
 
  ![Routes page](assets/images/routes.png)
 
  ### Get In Touch
 
- * This page provides a place for the user to leave their full name and email to get in touch with a lets ride submit button.
+* This page provides a place for the user to leave their full name and email to get in touch with a lets ride submit button.
  
  ![Get In Touch page](assets/images/Git.png)
 
@@ -95,7 +95,10 @@
 
 ### Navigation
 
-For testing the navigation I made sure all the liks opened to the correct page from each different page with out error.
+* For testing the navigation I made sure all the links opened to the correct page from each different page with out error.
+* I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing.
+* I comfirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes using the devtools device toolbar and using the page on different devices.
+* I have tested that the form will only submit with all the fields filled in and the email must be in the correct format.
 
 ### Validator Testing
 
