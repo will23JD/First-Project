@@ -122,6 +122,22 @@ Some images become distorted at unusual aspect ratios.
 * Information 
 The info buttom on the navigation just takes you to the home page on the Routes and Get In Touch page as it links to and id not a page.
 
+## Technologies Used
+
+### Languages Used
+
+* HTML5
+* CSS3
+
+### Framework, Libraries and Programs used
+
+* Balsamqi:
+    * Used to create wireframes in the desgin process.
+* Google Fonts:
+    * Google fonts was used to import the Roboto and Rubix fonts into css which is used on all pages.
+* Font Awesome:
+    * Used for the social media links in the footer.
+    
 ## Deployment
 
 ## Credits
