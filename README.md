@@ -1,7 +1,10 @@
 # Retro Bikes
+
+[View the live project here.](https://will23jd.github.io/Retro-Bikes/)
+
  Retro bikes is a soical mountainbiking group that is was created by people who love mountain biking for people who love mounation biking. Retro Bikes provides a community to keep people active and healthy on weekly mountain bike rides. Retro Bikes is aimed at people that what to get back out on their bike or if they want a group of people to ride with. It will provide a place to get in touch to join the group and learn about the times, days, routes(*length and difficulty*) and any useful information such as what to bring for the rides(*helmet, water, spare tube*). 
 
-/* image of finished website */
+![View of website on different screen sizes.](assets/images/responsive.png)
 
 ## Features
 
