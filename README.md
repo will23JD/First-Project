@@ -137,8 +137,19 @@ The info buttom on the navigation just takes you to the home page on the Routes 
     * Google fonts was used to import the Roboto and Rubix fonts into css which is used on all pages.
 * Font Awesome:
     * Used for the social media links in the footer.
-    
+
 ## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. On the left side of the Settings page locate the pages Section (second to last one).
+4. Under "Source", click the dropdown called "None" and select "main".
+5. Refresh the page until it says your is published at:.
+6. Click the link and it will take you to your page.
 
 ## Credits
 
