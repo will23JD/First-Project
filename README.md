@@ -6,6 +6,20 @@
 
 ![View of website on different screen sizes.](assets/images/responsive.png)
 
+## User Experience (UX)
+
+* ### Design 
+
+    * Imagery 
+    Imagery is very important as it catch's the user attention and provides extra context. The large hero image prodives an instant knowledge of what the site is about. Smaller images provide context and meaning.
+
+    * Color Scheme
+    The main colors used are green and off-white.
+
+    * Typography 
+    The main font used is Roboto with a fall back of Sans 
+
+
 ## Features
 
 ### Navigation
