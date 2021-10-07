@@ -98,11 +98,29 @@
 * For testing the navigation I made sure all the links opened to the correct page from each different page with out error.
 * I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing.
 * I comfirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes using the devtools device toolbar and using the page on different devices.
+
+### Get In Touch
+
 * I have tested that the form will only submit with all the fields filled in and the email must be in the correct format.
 
 ### Validator Testing
 
+* HTML
+    * No erros were found when passing through the official W3C validator on the home, route and git in touch page.
+* CSS
+    * No erros were found when passing through the official (Jigsaw) validator.
+* Accessibility
+    * I used lighthouse to comfired all pages where easy to read and accessible.
+
+    ![Lighthouse results](assets/images/lighthouse.png)
+
 ### Unfixed Bugs
+
+* Images
+Some images become distorted at unusual aspect ratios.
+
+* Information 
+The info buttom on the navigation just takes you to the home page on the Routes and Get In Touch page as it links to and id not a page.
 
 ## Deployment
 
