@@ -10,15 +10,29 @@
 
 * ### Design 
 
-    * Imagery 
+    * ### Imagery 
     Imagery is very important as it catch's the user attention and provides extra context. The large hero image prodives an instant knowledge of what the site is about. Smaller images provide context and meaning.
 
-    * Color Scheme
+    * ### Color Scheme
     The main colors used are green and off-white.
 
-    * Typography 
-    The main font used is Roboto with a fall back of Sans 
+    * ### Typography 
+    The main font used is Roboto with a fall back of Sans Serif. Roboto is a clean simple font that is easy to read and works will with the h1 and h2 font which is Rubik. Rubik is a smooth natural that fits in well as mountain biking is an sport that takes place in nature.
 
+* ## Wireframes 
+
+    * ### Landing Page 
+
+    ![Home page Design](assets/images/1pTop.png)
+    ![Home page design](assets/images/1pBottom.png)
+
+    * ### Routes Page
+
+    ![Routes page design](assets/images/2pRoutes.png)
+
+    * ### Get In Touch Page
+
+    ![Get In Touch page design](assets/images/3pGiT.png)
 
 ## Features
 
@@ -29,9 +43,59 @@
 * The navigation is set out in a clear and familiar way so user can easly navigate the page as soon as they get to it.
 * The logo is style in the same simple clean font as the other h1 and h2 elements with a green color the contrast with the back ground. The navigation links are in the same font color as the body element.
 
+![Navigation bar](assets/images/nav.png)
+
+### Lading page image
+
+* Hero image includes a photograph of 2 people riding there bike on a trial.
+* This intoduces the user to Retro Bikes and lets them know what its about.
+
+![Hero image](assets/images/RmHero.png)
+
+### Welcome to Retro Bikes and Hear From The Riders
+
+* This section gives the user brief introduction into Retro Bikes and whats it's about
+* The hear from the riders section lets the user hear from people that are in the group about what they like about it and why they go.
+
+![Welcome And Hear from the rider](assets/images/welcome.png)
+
+### Information and Safety
+
+* Here the user can find information regarding the rides like time and location.
+* In the section the user can see the requirements and safety that needs to be taken in to account when riding in the group.
+
+![Information and Requirements and Safety](assets/images/infosafety.png)
+
+### footer
+
+* Footer used to link the user to Retro Bikes social media. All links will open in a new tab for ease of navigation.
+* Allows the user to keep in connected and find out more via social media
+
+ ![Footer](assets/images/footer.png)
+
+ ### Routes
+
+ * This page allows to user to see the different rides that the group goes on
+ * It also provides the user usefull information about the ride such as skill level
+ * Like the home page this page includes the same navigation and footer to provide the user with a familiar layout for ease of navigation
+
+ ![Routes page](assets/images/routes.png)
+
+ ### Get In Touch
+
+ * This page provides a place for the user to leave their full name and email to get in touch with a lets ride submit button.
+ 
+ ![Get In Touch page](assets/images/Git.png)
+
 ###  Features Left to Implement
 
+* Adding more routes to the route page.
+
 ## Testing
+
+### Navigation
+
+For testing the navigation I made sure all the liks opened to the correct page from each different page with out error.
 
 ### Validator Testing
 
