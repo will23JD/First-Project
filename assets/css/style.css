@@ -69,6 +69,10 @@ h1, h2 {
     background-size: cover;
 }
 
+.hidden {
+    display: none;
+}
+
 /* Welcome to Retro Bikes */
 
 #introduction {
