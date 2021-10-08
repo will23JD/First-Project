@@ -95,9 +95,15 @@
 
 ### Navigation
 
-* For testing the navigation I made sure all the links opened to the correct page from each different page without error.
-* I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing.
-* I confirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes using the devtools device toolbar and using the page on different devices.
+* For testing the navigation I made sure all the links opened to the correct page from each different page without error. This is a very imprtant part of the websites function as if the links dont work then the user is foced to use the backwards arrows in the brower. Furthermore I made sure all the social media links opened in a new tab so the user is able to stay on the site while viewing the social media.
+
+### Web browers
+
+* I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing. Making sure the page worked as intented in different browers is important as users can be viewing the page on a number of different ones, so making sure the site works as intented for all users is improtant. To test the different browers I used my iphone to load the page on safari, I downloaded chrome, FireFox and bing to my computer to test them. 
+
+### Responsiveness
+
+* I confirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes. To make sure my site worked on different devices I loaded the page on an iphone XR, 13" laptop, 15" laptop and my PC which is displaying to a 24" monitor. To test my site on my screen sizes I didn't have I used dev tools. Through my testing I found my points in which content overlapped, this allowed me to know what sections, divs and elements to include in my media queries.
 
 ### Get In Touch
 
