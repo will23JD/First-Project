@@ -106,9 +106,9 @@
 ### Validator Testing
 
 * HTML
-    * No errors were found when passing through the official W3C validator on the home, route and git in touch page.
+    * No errors were found when passing through the [official W3C validator](https://validator.w3.org/#validate_by_input) on the home, route and git in touch page.
 * CSS
-    * No errors were found when passing through the official (Jigsaw) validator.
+    * No errors were found when passing through the [official (Jigsaw) validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 * Accessibility
     * I used lighthouse to confirmed all pages where easy to read and accessible.
 
@@ -136,11 +136,11 @@ The info buttom on the navigation just takes you to the home page on the Routes 
 
 ### Framework, Libraries and Programs used
 
-* Balsamqi:
+* [Balsamiq](https://balsamiq.com/wireframes/):
     * Used to create wireframes in the desgin process.
-* Google Fonts:
+* [Google Fonts](https://fonts.google.com/):
     * Google fonts was used to import the Roboto and Rubix fonts into css which is used on all pages.
-* Font Awesome:
+* [Font Awesome](https://fontawesome.com/):
     * Used for the social media links in the footer.
 
 ## Deployment
@@ -160,13 +160,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code 
 
-* CSS and HTML for footer used from Code Institute Love Running with changes to color, responsiveness and added Whats App link.
-* CSS and HTML for Get In Touch basic sturture used from Code Institute Love Running.
+* CSS and HTML for footer used from Code Institute [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) with changes to color, responsiveness and added Whats App link.
+* CSS and HTML for Get In Touch basic sturture used from Code Institute [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode).
 
 ### Media
 
-* Images sourced from Pexels.
-* Route images sourced from Trail Forks.
+* Images sourced from [Pexels](https://www.pexels.com/).
+* Route images sourced from [Trail Forks](https://www.trailforks.com/).
 
 ### Acknowledgements
 
