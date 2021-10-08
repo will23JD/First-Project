@@ -114,6 +114,11 @@
 
     ![Lighthouse results](assets/images/lighthouse.png)
 
+### Fixed Bugs 
+
+* Hero image cropped out the riders below 400px so I added a new cropped image to fit the screen size.
+* Logo had extra margin right causing the page to have horizontal scrolling, removing the margin extra solved the issue.
+
 ### Unfixed Bugs
 
 * Images
