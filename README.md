@@ -2,7 +2,7 @@
 
 [View the live project here.](https://will23jd.github.io/Retro-Bikes/)
 
- Retro bikes is a soical mountainbiking group that is was created by people who love mountain biking for people who love mounation biking. Retro Bikes provides a community to keep people active and healthy on weekly mountain bike rides. Retro Bikes is aimed at people that what to get back out on their bike or if they want a group of people to ride with. It will provide a place to get in touch to join the group and learn about the times, days, routes(*length and difficulty*) and any useful information such as what to bring for the rides(*helmet, water, spare tube*). 
+ Retro bikes is a social mountain biking group that was created by people who love mountain biking for people who love mounation biking. Retro Bikes provides a community to keep people active and healthy on weekly mountain bike rides. Retro Bikes is aimed at people that what to get back out on their bike or if they want a group of people to ride with. The site provides the user place to get in touch to join the group and learn about the times, days, routes(*length and difficulty*) and any useful information such as what to bring for the rides(*helmet, water, spare tube*). 
 
 ![View of website on different screen sizes.](assets/images/responsive.png)
 
@@ -11,13 +11,13 @@
 * ### Design 
 
     * ### Imagery 
-    Imagery is very important as it catch's the user attention and provides extra context. The large hero image prodives an instant knowledge of what the site is about. Smaller images provide context and meaning.
+    Imagery is very important as it catch's the user attention and provides extra context. The large hero image provides an instant knowledge of what the site is about. Smaller images provide context and meaning.
 
     * ### Color Scheme
     The main colors used are green and off-white.
 
     * ### Typography 
-    The main font used is Roboto with a fall back of Sans Serif. Roboto is a clean simple font that is easy to read and works will with the h1 and h2 font which is Rubik. Rubik is a smooth natural that fits in well as mountain biking is an sport that takes place in nature.
+    The main font used is Roboto with a fall back of Sans Serif. Roboto is a clean simple font that is easy to read and works will with the h1 and h2 font which is Rubik. Rubik is a smooth and natural that fits in well as mountain biking is an sport that takes place in nature.
 
 * ## Wireframes 
 
@@ -39,30 +39,30 @@
 ### Navigation
 
 * At the top of the page is the group name in the left corner that links back to the home page. 
-* On the right there are the other navigation link; Home which links to the index.html page, Info which scrolls down to the infrmation section on the home page, Routes which takes you to the routes.html page and Get In Touch which takes you to the GetInTouch.html page.
-* The navigation is set out in a clear and familiar way so user can easly navigate the page as soon as they get to it.
+* On the right there are the other navigation links Home which links to the index.html page, Info which scrolls down to the infrmation section on the home page, Routes which takes you to the routes.html page and Get In Touch which takes you to the GetInTouch.html page.
+* The navigation is set out in a clear and familiar way so the user can easly navigate the page as soon as they get to it.
 * The logo is style in the same simple clean font as the other h1 and h2 elements with a green color the contrast with the back ground. The navigation links are in the same font color as the body element.
 
 ![Navigation bar](assets/images/nav.png)
 
 ### Lading page image
 
-* Hero image includes a photograph of 2 people riding there bike on a trial.
-* This intoduces the user to Retro Bikes and lets them know what its about.
+* Hero image includes a photograph of 2 people riding there bike on a trail.
+* This intoduces the user to Retro Bikes and lets them know what it's about.
 
 ![Hero image](assets/images/RmHero.png)
 
 ### Welcome to Retro Bikes and Hear From The Riders
 
-* This section gives the user brief introduction into Retro Bikes and whats it's about
-* The hear from the riders section lets the user hear from people that are in the group about what they like about it and why they go.
+* This section gives the user brief introduction into Retro Bikes and whats it's all about
+* The 'hear from the riders section' lets the user hear from people that are in the group about what they like about it and why they go.
 
 ![Welcome And Hear from the rider](assets/images/welcome.png)
 
 ### Information and Safety
 
 * Here the user can find information regarding the rides like time and location.
-* In the section the user can see the requirements and safety that needs to be taken in to account when riding in the group.
+* In the section the user can see the requirements and safety that needs to be taken into account when riding in the group.
 
 ![Information and Requirements and Safety](assets/images/infosafety.png)
 
@@ -76,7 +76,7 @@
  ### Routes
 
 * This page allows to user to see the different rides that the group goes on
-* It also provides the user usefull information about the ride such as skill level
+* It also provides the user useful information about the ride such as skill level
 * Like the home page this page includes the same navigation and footer to provide the user with a familiar layout for ease of navigation
 
  ![Routes page](assets/images/routes.png)
@@ -95,9 +95,9 @@
 
 ### Navigation
 
-* For testing the navigation I made sure all the links opened to the correct page from each different page with out error.
+* For testing the navigation I made sure all the links opened to the correct page from each different page without error.
 * I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing.
-* I comfirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes using the devtools device toolbar and using the page on different devices.
+* I confirmed that this project is responsive, keeps a consistent style, function as intended and looks good on all screen sizes using the devtools device toolbar and using the page on different devices.
 
 ### Get In Touch
 
@@ -106,11 +106,11 @@
 ### Validator Testing
 
 * HTML
-    * No erros were found when passing through the official W3C validator on the home, route and git in touch page.
+    * No errors were found when passing through the official W3C validator on the home, route and git in touch page.
 * CSS
-    * No erros were found when passing through the official (Jigsaw) validator.
+    * No errors were found when passing through the official (Jigsaw) validator.
 * Accessibility
-    * I used lighthouse to comfired all pages where easy to read and accessible.
+    * I used lighthouse to confirmed all pages where easy to read and accessible.
 
     ![Lighthouse results](assets/images/lighthouse.png)
 
