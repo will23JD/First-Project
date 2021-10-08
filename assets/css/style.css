@@ -75,10 +75,6 @@ h1, h2 {
 
 /* Welcome to Retro Bikes */
 
-#introduction {
-    height: 175px;
-}
-
 #welcome {
     font-size: 200%;
     text-align: center;
@@ -424,10 +420,6 @@ footer {
         margin-left: 20px;
         clear: left;
         float: left;
-    }
-
-    #introduction {
-        height: 300px;
     }
 
     footer {
