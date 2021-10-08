@@ -378,17 +378,28 @@ footer {
     }
 
     #info-req {
+        height: 850px;
+        text-align: center;
+    }
+
+    #info-left {
         width: 100%;
         clear: both;
     }
 
-    #information, #require {
-        clear: both;
+    #helmet-right img {
         width: 100%;
+        clear: right;
     }
 
-    #helmet img {
-        width: 100%;
+    #information li, #require li{
+        width: 90%;
+    }
+
+    #require p {
+        padding-left: 15px;
+        font-size: 110%;
+        width: 90%;
     }
 
     #routes {
@@ -416,31 +427,6 @@ footer {
 
     #introduction {
         height: 300px;
-    }
-
-    #info-req {
-        height: 850px;
-        text-align: center;
-    }
-
-    #info-left {
-        width: 100%;
-        clear: both;
-    }
-
-    #helmet-right img {
-        width: 100%;
-        clear: right;
-    }
-
-    #information li, #require li{
-        width: 90%;
-    }
-
-    #require p {
-        padding-left: 15px;
-        font-size: 110%;
-        width: 90%;
     }
 
     footer {
