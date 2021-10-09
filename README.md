@@ -143,8 +143,8 @@ The info buttom on the navigation just takes you to the home page on the Routes 
 
 ### Languages Used
 
-* HTML5
-* CSS3
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Framework, Libraries and Programs used
 
