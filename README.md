@@ -113,8 +113,14 @@
 
 * HTML
     * No errors were found when passing through the [official W3C validator](https://validator.w3.org/#validate_by_input) on the home, route and git in touch page.
+
+    ![HTML validator](assets/images/htmlval.png)
+
 * CSS
     * No errors were found when passing through the [official (Jigsaw) validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
+
+    ![CSS validator](assets/images/cssval.png)
+
 * Accessibility
     * I used lighthouse to confirmed all pages where easy to read and accessible.
 
