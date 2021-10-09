@@ -182,6 +182,7 @@ Forking the repository allows us to have a copy of the original repository to vi
 
 * CSS and HTML for footer used from Code Institute [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) with changes to color, responsiveness and added Whats App link.
 * CSS and HTML for Get In Touch basic sturture used from Code Institute [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode).
+* CSS and HTML for hero image used form Code Institute [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode).
 
 ### Media
 
