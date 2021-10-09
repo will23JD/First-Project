@@ -14,7 +14,7 @@
     Imagery is very important as it catch's the user attention and provides extra context. The large hero image provides an instant knowledge of what the site is about. Smaller images provide context and meaning.
 
     * ### Color Scheme
-    The main colors used are green and off-white.
+    The main colors used are green (Hex #267106) for the headings and off-white (Hex #e7e4df) for the background.
 
     * ### Typography 
     The main font used is Roboto with a fall back of Sans Serif. Roboto is a clean simple font that is easy to read and works will with the h1 and h2 font which is Rubik. Rubik is a smooth and natural that fits in well as mountain biking is an sport that takes place in nature.
@@ -95,11 +95,11 @@
 
 ### Navigation
 
-* For testing the navigation I made sure all the links opened to the correct page from each different page without error. This is a very imprtant part of the websites function as if the links dont work then the user is foced to use the backwards arrows in the brower. Furthermore I made sure all the social media links opened in a new tab so the user is able to stay on the site while viewing the social media.
+* For testing the navigation I made sure all the links opened to the correct page from each different page without error. This is a very important part of the website's function as if the links don't work then the user is forced to use the backward arrows in the browser. Furthermore, I made sure all the social media links opened in a new tab so the user can stay on the site while viewing the social media.
 
 ### Web browers
 
-* I tested that the page opens and works in browers: Chrome, FireFox, Safari and Bing. Making sure the page worked as intented in different browers is important as users can be viewing the page on a number of different ones, so making sure the site works as intented for all users is improtant. To test the different browers I used my iphone to load the page on safari, I downloaded chrome, FireFox and bing to my computer to test them. 
+* I tested that the page opens and works in browsers: Chrome, Firefox, Safari, and Bing. Making sure the page worked as intended in different browsers is important as users can be using a number of different browsers to view the page, so making sure the site works as intended for all users is important. To test the different browsers I used my iPhone to load the page on safari, I downloaded Chrome, Firefox, and bing to my computer to test them. 
 
 ### Responsiveness
 
